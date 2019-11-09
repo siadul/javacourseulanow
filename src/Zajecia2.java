@@ -368,8 +368,18 @@ public class Zajecia2 {
         }
 
         // Zadanie
-        // wypisać stosowny komunikat w zależności od tego czy długość nazwiska
+        // Wypisać stosowny komunikat w zależności od tego czy długość nazwiska
         // jest większa/mniejsza bądź równa 6 znaków
+        // Wskazówka - do pozyskania długości stringa używamy metody length, np. str1.length()
+
+        // Pętli - powtarzanie wykonania kodu
+//        for(definicja_zmiennej_licznikowej, warunek, instrukcja_modyfikacji_licznika) {
+//              instrukcje wykonywane dopóki warunek jest spełniony
+//        }
+
+        for (int i = 0; i < 10; i = i + 1) {
+            System.out.println("Będę się uczył języka JAVA: " + i);
+        }
 
 
 
