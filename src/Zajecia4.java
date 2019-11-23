@@ -26,10 +26,11 @@ public class Zajecia4 {
 
     private static void classes() {
         // Co to są klasy?
-        // Klasy to typy zdefiniowane przez nas.
+        // Klasy to typy zdefiniowane przez nas (programistów,
+        // w odróżnieniu od typów podstawowych stworzonych przez projektantów języka).
         // mamy typy podstawowe np. int, double, char itp.
         // oraz mamy typy obiektowe np. String
-        // Typy które tworzmy za pomocą słowa kluczowego class to typy obiektowe
+        // Typy, które tworzmy za pomocą słowa kluczowego class to typy obiektowe
         // składnia:
         // class nazwa_klasy {
         //      definicja pól... (o tym później)

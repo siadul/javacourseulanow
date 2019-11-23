@@ -566,30 +566,5 @@ public class Zajecia3 {
 
         // zad. domowe
         // obliczyć sumę ciągu geometrycznego wykorzystując pętle...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
