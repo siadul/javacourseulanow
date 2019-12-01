@@ -14,12 +14,12 @@ public class Zajecia7 {
     public static void main(String[] args) {
 //        ex1();
 //        ex2();
-        ex3();
+//        ex3();
         this1();
     }
 
     private static void this1() {
-//        System.out.println(this.f1); // uwaga! this istnieje tylko w kontekście
+//        System.out.println(this.f1); // Uwaga! this istnieje tylko w kontekście
         // który nie jest statyczny
 //        getF1Value(); również nie zadziała, nie mogę wywoływać niestatycznych metod z
         // kontekstu statycznego
@@ -70,6 +70,7 @@ public class Zajecia7 {
             ) + st2.getPermills() > st2.getMaxPermills()
                     ||  bPorter1.getAmount() < Barrel.MUG_SIZE
             ) {
+                System.out.println(st2.drinkBeer(beerPorterN));
                 break;
             }
             st2.drinkBeer(beerPorterN);
@@ -78,7 +79,6 @@ public class Zajecia7 {
         // ponieważ pierwsze piwo wylalismy, drugie podalismy studentowi o slabej glowie
         // a beczka zawierala tylko 2 piwa, nasz student o mocnej glowie nie wypil
         // żadnego piwa
-
 
         while(true) {
             Beer beerLagerN = bLager1.createBeer();
