@@ -94,7 +94,6 @@ public class Zajecia9 {
         // korzystającej ze String.valueOf) to wówczas zawartość tego kontenera będzie
         // wypisana w "ładny" sposób (w odróżnieniu od tablic).
 
-        // a co jeżeli chcemy zachowywać kolejność dodawania elementów
         // LinkedList
         LinkedList<String> linkedList = new LinkedList<String>();
         linkedList.add("test1");
