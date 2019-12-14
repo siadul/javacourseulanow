@@ -20,11 +20,6 @@ public class Zajecia10 {
 
         // łańcuchy znaków
         strings();
-
-
-        // łańcuchy znaków II wzorce
-        // wejście-wyjście
-        // gui
     }
 
     private static void strings() {
