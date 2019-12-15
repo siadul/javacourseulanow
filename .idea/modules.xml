@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javacourseulanow.iml" filepath="$PROJECT_DIR$/.idea/javacourseulanow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zajecia14/appsrc/appfuncs/appfuncs.iml" filepath="$PROJECT_DIR$/zajecia14/appsrc/appfuncs/appfuncs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zajecia14/appsrc/appstart/appstart.iml" filepath="$PROJECT_DIR$/zajecia14/appsrc/appstart/appstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appstart2/appstart2.iml" filepath="$PROJECT_DIR$/appstart2/appstart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacourseulanow.iml" filepath="$PROJECT_DIR$/javacourseulanow.iml" />
     </modules>
   </component>
 </project>
